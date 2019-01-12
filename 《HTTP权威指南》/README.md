@@ -21,4 +21,5 @@
 ## HTTP报文
 
 - 报文分为请求报文合响应报文，报文包括起始行、首部字段合主体。
-- ![报文实例图](https://code.byted.org/ad/yuntu_fe/blob/master/static/index/check.png)
+- ![报文实例图](https://github.com/Daibai/book-note/blob/master/%E3%80%8AHTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B/static/message.png)
+
