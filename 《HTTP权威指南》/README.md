@@ -36,7 +36,7 @@
 
 ## URL
 
-- URL语法 <scheme>://<user>:<password>@<host>:<port>/<path>;<params>?<query>#<frag>
+- URL语法 `<scheme>://<user>:<password>@<host>:<port>/<path>;<params>?<query>#<frag>`
     - scheme 方案，使用什么协议
     - 用户名和密码
     - 主机与端口
