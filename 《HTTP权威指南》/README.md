@@ -44,4 +44,4 @@
     - 参数
     - 查询字符串
     - 片段,"#"开头，使用见下图
-    - ![报文实例图](https://github.com/Daibai/book-note/blob/master/%E3%80%8AHTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B/static/message.png)
+    - ![报文实例图](https://github.com/Daibai/book-note/blob/master/%E3%80%8AHTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B/static/url%23.png)
